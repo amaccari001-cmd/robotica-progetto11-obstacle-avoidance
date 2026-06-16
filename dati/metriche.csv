@@ -1,0 +1,9 @@
+scenario,algoritmo,esito,step,lunghezza_path,clearance_min,collision_steps,dist_finale
+slalom,PF,goal,451,5.373920,0.618589,0,0.119849
+slalom,DWA,goal,379,4.962293,0.529880,0,0.115309
+corridoio,PF,min. locale,304,1.004360,0.670377,0,3.995640
+corridoio,DWA,goal,370,4.883640,0.480001,0,0.116360
+u,PF,min. locale,489,2.142646,0.630000,0,2.857354
+u,DWA,stallo,666,2.629680,0.313468,0,2.370779
+dinamico,PF,goal,656,8.205094,0.226078,41,0.118119
+dinamico,DWA,goal,1138,7.778833,-0.302744,312,0.119923
