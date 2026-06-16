@@ -35,7 +35,7 @@ cp -r mujoco_menagerie/unitree_g1 ./unitree_g1
 Tutti i comandi vanno dati dalla cartella del progetto. Per spostarsi dentro la cartella:
 
 ```bash
-cd robotica_progetto
+cd robotica-progetto11-obstacle-avoidance
 ```
 
 ### Passo 1 — Controllare che il robot funzioni
